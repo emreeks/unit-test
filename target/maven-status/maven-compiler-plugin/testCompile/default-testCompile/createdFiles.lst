@@ -1,0 +1,9 @@
+unit/test/sample/MockitoTest.class
+unit/test/sample/JUnitExceptionHandlingTest.class
+unit/test/sample/JUnitLifeCycleTest.class
+unit/test/sample/JUnitIgnoreTest.class
+unit/test/sample/JUnitAssertionsTest.class
+unit/test/sample/HamcrestTest.class
+unit/test/sample/TestExerciseTest.class
+unit/test/sample/JUnitGroupsTest.class
+unit/test/sample/AssertJTest.class
